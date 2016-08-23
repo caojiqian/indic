@@ -1,0 +1,29 @@
+# indic
+implement indic inputmethod, include:
+Hindi हिन्दी
+Kannada ಕನ್ನಡ
+Tamil தமிழ்
+Malayalam മലയാളം
+Telugu తెలు
+Gujarati ગુજરા
+Marathi मराठी
+Oriya ଓଡ଼ିଆ
+Punjabi ਪੰਜਾਬੀ
+Gurmukhi ਗੁਰਮੁਖ
+Shahmuhi شاہ مکھی
+Bengali বাংলা
+Assamese অসমীয়
+Sinhalese සිංහල
+Urdu اُردُو 
+Sanskrit संस्कृतम् 
+Santali ᱥᱟᱱᱛᱟᱞᱤ
+Tibetan བོད
+Sindhi سنڌي 
+Pashto پښتو 
+Nepali नेपाली
+Baluchi بلوچ
+Kashmir कॉशुर 
+Kashmiri كٲشُر 
+Maithili  मैथिली 
+Manipuri  মৈতৈলোন্ 
+Arabic  العَرَبِيةُ
